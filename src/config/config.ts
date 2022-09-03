@@ -1,7 +1,7 @@
 export const config = {
   "dev": {
     "username": "udagramobendedev",
-    "password": "Kelloggs1963$",
+    "password": "Kellogg1963$",
     "database": "udagramobendedev",
     "host": "udagramobendedev.cxfmjcyo5uic.us-east-1.rds.amazonaws.com",
     "dialect": "postgres",
@@ -20,3 +20,4 @@ export const config = {
     "dialect": "postgres"
   }
 }
+
